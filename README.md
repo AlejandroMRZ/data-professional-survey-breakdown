@@ -17,14 +17,9 @@ This Power BI dashboard analyzes the responses from a survey of 630+ data profes
 - Data transformation in Power Query
 - DAX measures for summarizing and slicing data
 
-## 🖼️ Preview
-
-![Dashboard Overview](images/dashboard-preview.png)
-
 ## 📁 Files
 - `DataProfessionalSurvey.pbix`: Main Power BI report
-- `data/`: Optional folder with raw or sample data (if license allows)
-- `images/`: Screenshots of visuals for README or sharing
+- `data/`: folder with raw data 
 
 ## 📌 Insights
 - Python is by far the most popular programming language.
