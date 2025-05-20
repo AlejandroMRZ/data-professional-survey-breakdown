@@ -19,7 +19,7 @@ This Power BI dashboard analyzes the responses from a survey of 630+ data profes
 
 ## 🖼️ Preview
 
-![Dashboard Overview](images/dashboard-preview.png)
+![Dashboard Overview](images/dashboard-preview.jpg)
 
 ## 📁 Files
 - `DataProfessionalSurvey.pbix`: Main Power BI report
